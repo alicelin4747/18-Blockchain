@@ -81,6 +81,7 @@ Note:
     - Amount - how much you want to send. Ensure you don't send more than you have
 
 - Once you send Transaction, you will have a TX Hash that you can check the TX Status. 
+
     ![alt text](tx.jpg)
 
     
